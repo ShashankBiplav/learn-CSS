@@ -1,5 +1,5 @@
 #product-overview {
-  background: url("images/hero-image.png") center/cover no-repeat border-box;
+  background:linear-gradient(to top, rgba(80,68,18,0.6) 10%, transparent), url("images/hero-image.png") center/cover no-repeat border-box, #ff1b68;
   /* background-repeat: no-repeat;
   background-size:cover;
   background-position:center;
@@ -98,6 +98,7 @@
   border: 2px solid #424242;
   border-radius: 50%;
   margin: 0 auto;
+  padding: 20px;
 }
 
 .key-feature__description{
